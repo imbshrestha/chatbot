@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chatbot_project.git
+git clone https://github.com/imbshrestha/chatbot
 cd chatbot_project
 Build and Run with Docker:
 
